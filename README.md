@@ -1,5 +1,5 @@
 # ORM
-## 📚 Description
+## Description
 This is the backend work for an ecommerce site. This application displays creation, reading, updating, and deletion operations in the database.
 
 ##  Installation
@@ -9,7 +9,7 @@ To install the application on your system, follow these steps:
 npm install
 ```
 
-## 🎯 Usage
+##  Usage
 [Walkthrough Video 🎥](https://drive.google.com/file/d/1WF-NElLtaC_rsIDY_L_Vd64WaTBqsmaN/view?usp=sharing)
 
 Once you've successfully installed all the required dependencies, the application is ready for use. Invoke it by running the following command:
